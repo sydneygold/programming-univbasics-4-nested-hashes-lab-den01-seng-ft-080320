@@ -55,8 +55,7 @@ def dennis_ritchies_language
         :languages => ["C"]
       }
     }
-dennis_ritchie.languages.index[0]
-
+dennis_ritchies_language.index[[]:dennis_ritchie][:languages[0]]]
 
 end
 
